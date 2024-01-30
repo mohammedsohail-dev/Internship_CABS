@@ -1,5 +1,5 @@
 
-   Users can run the code along with the CMAPSS Data set 
+   Users can run the code along with the CMAPSS Data set in the same folder
     
   Objective:
         The project aims to implement deep learning-based predictive maintenance for predicting the Residual Useful Life (RUL) of turbofan degradation in aircraft engines.
