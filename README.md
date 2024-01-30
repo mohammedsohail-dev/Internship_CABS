@@ -4,7 +4,7 @@
 1) Objective:
         The project aims to implement deep learning-based predictive maintenance for predicting the Residual Useful Life (RUL) of turbofan degradation in aircraft engines.
 
-2)Dataset:
+2) Dataset:
         C-MAPSS data sets from the Prognostics Centre of Excellence (PCoE) at NASA are used for training and testing the predictive maintenance model.
 
 3) Model Comparison:
